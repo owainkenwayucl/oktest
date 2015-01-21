@@ -3,7 +3,7 @@
 # Stupidly simple test script.
 # Invoke with oktest.sh <script.py> <test>
 
-# This code is trivial and therefore I release it into thes public domain.
+# This code is trivial and therefore I release it into the public domain.
 # See LICENSE
 
 # Owain Kenway, 2015
